@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Benjamin Gruber
+N:Gruber;Benjamin;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:hello@benjamin-gruber.com
+TEL;TYPE=WORK:+49 30 54908152 
+TEL;TYPE=CELL:+49  179 7001493
+ADR;TYPE=WORK:;;Pappelallee 78-79;Berlin;;10437;DE;Pappelallee 78-79\n10437
+  Berlin\nDE
+item1.ORG:Gruber - IT Consulting
+item1.X-ABLabel:
+item2.URL:https\://benjamin-gruber.com
+item2.X-ABLabel:homePage
+item3.URL:https\://www.linkedin.com/in/benjamin-gruber-08ab22110/
+item3.X-ABLabel:Linkedin
+CATEGORIES:Importiert am 5.12.,myContacts
+END:VCARD
